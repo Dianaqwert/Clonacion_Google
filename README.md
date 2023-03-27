@@ -1,10 +1,10 @@
 # Clonacion_Google
 Clonación china de Google en el bootcam de Tecnolochicas PRO.
 ## **INDICE**
-* [1.Intro](https://github.com/Dianaqwert/Clonacion_Google/edit/main/README.md#1intro)
-* [2.Què construi](https://github.com/Dianaqwert/Clonacion_Google/edit/main/README.md#2qu%C3%A8-construi)
-* [3.Objetivo del Proyecto](https://github.com/Dianaqwert/Clonacion_Google/edit/main/README.md#3objetivo-del-proyecto)
-* [4.Link a Demo](https://github.com/Dianaqwert/Clonacion_Google/edit/main/README.md#4link-a-demo)
+* [1.Intro](https://github.com/Dianaqwert/Clonacion_Google/blob/main/README.md#1intro)
+* [2.Què construi](https://github.com/Dianaqwert/Clonacion_Google/blob/main/README.md#2qu%C3%A8-construi)
+* [3.Objetivo del Proyecto](https://github.com/Dianaqwert/Clonacion_Google/blob/main/README.md#3objetivo-del-proyecto)
+* [4.Link a Demo](https://github.com/Dianaqwert/Clonacion_Google/blob/main/README.md#4link-a-demo)
 
 ***
 ## 1.Intro
