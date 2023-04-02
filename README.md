@@ -18,4 +18,4 @@ En este proyecto me enfoque en construir la clonacion de la interfaz de Google.C
 ## 3.Objetivo del Proyecto
 Aprender a utilizar las etiquetas de HTML5 y CSS3.
 ## 4.Link a Demo: 
-Puedes visualizar mi proyecto terminado en : [Clonacion_Google](#)
+Puedes visualizar mi proyecto terminado en : [Clonacion_Google](https://6429de3087d8904906b37c69--elegant-sherbet-1558ca.netlify.app/)
